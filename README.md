@@ -1,2 +1,2 @@
-# adversum
-For hosting a micro blog
+# Secondthought
+a micro blog
